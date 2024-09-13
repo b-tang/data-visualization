@@ -1,7 +1,7 @@
 # Data-Visualization
 
 ## Presentation
-You can watch my presentation at: youtu.be/zc-GnnFezZY
+You can watch my presentation at: [Data and Analysis](youtu.be/zc-GnnFezZY)
 
 ## Motivation
 Accurately identifying student confusion is crucial for educators to tailor content delivery and ensure maximum comprehension. Current methods rely on students requesting help and teachers sensing confusion, which are often unreliable and leave some students behind, affecting academic performance. Neural activity across EEG bands (delta to low gamma) has been linked to cognitive events, and early studies suggest a correlation between these bands and confusion levels. If confirmed, this could enable the development of systems to monitor and quantify student confusion, improving classroom feedback and enhancing learning outcomes.
