@@ -1,4 +1,5 @@
-# Data-Visualization
+# Data Visualization
+Analyzes EEG data to identify neural markers of student confusion.
 
 ## Presentation
 You can watch my presentation at: [Data and Analysis](https://youtu.be/zc-GnnFezZY)
