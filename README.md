@@ -19,16 +19,17 @@ The dataset includes 12,000 EEG data points from the frontal cortex of ten subje
 
 ## Extensions
 Beyond this course, the project can be extended by:  
-1) Comparing metrics of reconstructed EEG signals (e.g., fractal dimensionality, area under the curve) with confusion levels for more detailed insights.  
-2) Analyzing data from more participants, as a sample size of ten is too small for robust conclusions.  
-3) Designing an experimental setup where the technology used for videos does not interfere with EEG impedance, as proximity to devices can introduce noise and affect results.
+1. Comparing metrics of reconstructed EEG signals (e.g., fractal dimensionality, area under the curve) with confusion levels for more detailed insights.  
+
+2. Analyzing data from more participants, as a sample size of ten is too small for robust conclusions.
+  
+3. Designing an experimental setup where the technology used for videos does not interfere with EEG impedance, as proximity to devices can introduce noise and affect results.
 
 ## Tools
 Tableau will be used for data visualization. MATLAB will be used for data cleaning and signal
 reconstruction.
 
 ## References
-
 [1] T. Xu, J. Wang, G. Zhang, L. Zhang, and Y. Zhou, “Confused or not: decoding brain activity and
 recognizing confusion in reasoning learning using EEG,” Journal of Neural Engineering, vol. 20, no.
 2, Mar. 2023, doi: https://doi.org/10.1088/1741-2552/acbfe0.
