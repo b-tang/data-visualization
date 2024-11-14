@@ -40,3 +40,6 @@ https://www.kaggle.com/datasets/wanghaohan/confused-eeg (accessed Mar. 19, 2024)
 [3] J. Z. Liu, Q. Yang, Bra. Yao, R. W. Brown, and G. H. Yue, “Linear correlation between fractal
 dimension of EEG signal and handgrip force,” Biological Cybernetics, vol. 93, no. 2, pp. 131–140, Jul.
 2005, doi: https://doi.org/10.1007/s00422-005-0561-3.
+
+## License
+This repository is for educational purposes as part of the CS 4665 course at Cal State LA.
